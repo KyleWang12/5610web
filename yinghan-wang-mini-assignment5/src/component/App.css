@@ -1,0 +1,14 @@
+h1 {
+    align-items: center;
+    text-align: center;
+}
+
+.cell-container {
+    display: flex;
+    width: 205px;
+    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
